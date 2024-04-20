@@ -1,0 +1,6 @@
+@REST_API_ANIMALS_2_HostAddress = http://localhost:5129
+
+GET {{REST_API_ANIMALS_2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
